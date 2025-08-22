@@ -7,7 +7,7 @@ Repository structure and contents
 * Regression
    -- Linear Regression
    -- Logistic Regression
-* README
+* README n
 
 
 Notebook Contents
