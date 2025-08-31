@@ -24,3 +24,4 @@ Notebook Contents
   -- SVD
   -- Further review
 
+Currently has been published as it has been completed as far as my projects have allowed.
