@@ -19,6 +19,8 @@ Notebook Contents
 
 * Fundamental mathematics
   -- Matrices
+  -- Basis
+  -- Span
   -- Orthogonal Matrices
   -- Spectral Decomposition
   -- SVD
