@@ -24,6 +24,6 @@ Notebook Contents
   -- Orthogonal Matrices
   -- Spectral Decomposition
   -- SVD
-  -- Further review
+  -- Further review topics
 
 Currently has been published as it has been completed as far as my projects have allowed.
