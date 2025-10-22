@@ -15,7 +15,7 @@ Repository structure and contents
 * README
 
 
-Notebook Contents
+Notebook Content
 
 * Fundamental mathematics
   -- Matrices
